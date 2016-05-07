@@ -1,7 +1,7 @@
 name: Umar Mughal
 favicon: null
 layout_spectrum: 0.76429
-typography_spectrum: 0.9475602023303509
+typography_spectrum: 0.43772
 title: 'UI Designer & Frontend Developer'
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6093788773287088
   lightness: 0.29193368181586266
   saturation: 0.6863334556110203
-  rhythmicContrast: 0.5213912953622639
+  rhythmicContrast: 0.5
 purpose: []

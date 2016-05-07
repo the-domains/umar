@@ -1,0 +1,28 @@
+name: Umar Mughal
+favicon: null
+layout_spectrum: 0.6650593257509172
+typography_spectrum: 0.9475602023303509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6093788773287088
+  lightness: 0.29193368181586266
+  saturation: 0.6863334556110203
+  rhythmicContrast: 0.5213912953622639
+purpose: []

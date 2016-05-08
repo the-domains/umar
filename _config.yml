@@ -1,29 +1,41 @@
-name: Umar Mughal
-favicon: null
-layout_spectrum: 0.76429
-typography_spectrum: 0.43772
 title: 'UI Designer & Frontend Developer'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6863334556110203
+  brandStrength: 0.6093788773287088
+  rhythmicContrast: 0.5
   brandColors:
     - '#424243'
     - '#fec800'
     - '#ffffff'
     - '#acacac'
     - '#7f660c'
-  brandStrength: 0.6093788773287088
-  lightness: 0.29193368181586266
-  saturation: 0.6863334556110203
-  rhythmicContrast: 0.5
-purpose: []
+  lightness: 0.2919336818158627
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Umar Mughal
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5297872
+layout_spectrum: 0.7234042

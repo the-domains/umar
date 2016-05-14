@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[UI Designer & Frontend Developer]]></title>
         <description><![CDATA[UI Designer & Frontend Developer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/umar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 04:28:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 08:34:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/umar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ME]]></title>
-            <description><![CDATA[<article><h1>ME</h1><p>First Post @ TheGrid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50717fb6-9ba6-42ad-ad98-57342b83eeff.jpg"></article>]]></description>
-            <link>undefinedme/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f049051-b338-44a5-88ff-9c9bf8aa7f80.jpg">]]></description>
+            <link>https://thegrid.ai/umar/me/index.html</link>
             <guid isPermaLink="false">76512ff0-ec87-4c47-b8e1-c97bb6947b7a</guid>
-            <pubDate>Wed, 11 May 2016 04:28:51 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 08:34:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
